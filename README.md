@@ -12,3 +12,12 @@ TestNG, @Test, Before and After Method.
 Cloud Grids - Selenoid Docker integration
 SonarLint, Java > 8
 Run Local and on Selenoid Integration
+
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
+
+Seleniod - Docker Grid Running
+Selenoid is a powerful tool for running Selenium tests in Docker containers.
+which can help you manage and scale your test automation infrastructure more efficiently.
+![img_3.png](img_3.png)
+
